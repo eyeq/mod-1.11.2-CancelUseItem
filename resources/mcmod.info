@@ -1,0 +1,9 @@
+[
+{
+	"modid": "eyeq_canceluseitem",
+	"name": "CancelUseItem",
+	"description": "右クリック制限",
+	"authorList": ["eyeq"],
+	"credits": "iwy"
+}
+]
